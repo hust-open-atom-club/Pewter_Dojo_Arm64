@@ -1,6 +1,5 @@
 import os
 from rich.console import Console
-from rich import print
 from time import sleep
 
 timefmt = "%Y-%m-%d %H:%M:%S"
