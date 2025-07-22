@@ -11,7 +11,7 @@ award:
 
 modules:
   - id: setuid
-    icon: Onix
+    icon: 0095_Onix
 
   - id: pwntools
-    icon: Geodude
+    icon: 0074_Geodude
